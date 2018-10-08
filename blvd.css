@@ -1,15 +1,27 @@
+h1 {
+	font-family: 'Montserrat';
+	text-align: center;
+	font-size: 75px;
+	text-transform: uppercase;
+	color: teal
+
+}
+
+
 .blvd1 {
 	position: absolute;
-	top: 50px;
+	top: 300px;
 	left: 50px;
 	width: 40%;
+	
 
 }
 
 .blvd2 {
 	position: absolute;
-	top: 50px;
+	top: 300px;
 	left: 50px;
 	width: 40%;
 
 }
+
